@@ -5,7 +5,7 @@
 Author
 ------
 
-* Valentina Monetta - Marco Bagnasco @ Maker Academy (Ronin) - Week 5
+* Valentina Monetta - Marco Bagnasco @ Maker Academy (Ronin) -  Week 5
 
 Tech Used
 ---------
